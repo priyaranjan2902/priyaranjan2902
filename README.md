@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Web development, Cyber security**
 
-- 💬 Ask me about **### Hi there, I'm Priyaranjan Kumar 👋 I'm a second-year Computer Science and Engineering student at [International Institute of Information Technology, Bhubaneswar], deeply passionate about technology and its potential to shape the future. My journey in the world of tech has allowed me to explore various facets of this ever-evolving landscape. - 🖥️ I'm proficient in web development, crafting interactive and user-friendly websites that bring ideas to life. - 🔒 I'm also well-versed in cybersecurity, working towards securing the digital realm from emerging threats. - 🎨 In addition, I have a knack for graphic design, combining aesthetics with functionality to create visually appealing digital solutions. I thrive in dynamic environments and relish tackling complex challenges. My goal is to make a meaningful impact in the tech industry, and I believe that diverse skills and a passion for innovation are essential to achieving that. When I'm not coding or securing digital landscapes, you can find me [Share a Personal Interest or Hobby], which I believe adds depth to my perspectives and creativity in my work. Let's connect to collaborate, exchange ideas, or simply engage in tech discussions. Together, we can harness the power of technology to shape a brighter future. Feel free to explore my projects and repositories here on GitHub. 🚀**
-
+- 💬 Ask me about **### Hi there, I'm Priyaranjan Kumar 👋 I'm a second-year Computer Science and Engineering student at [International Institute of Information Technology, Bhubaneswar].
 - 📫 How to reach me **rajprience2902@gmail.com**
 
 - 📄 Know about my experiences [https://rajprience2902.wixsite.com/priyaranjan](https://rajprience2902.wixsite.com/priyaranjan)
