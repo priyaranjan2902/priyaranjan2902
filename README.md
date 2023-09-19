@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaranjan2902&label=Profile%20views&color=0e75b6&style=flat" alt="priyaranjan2902" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyaranjan2902" alt="priyaranjan2902" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web development, Cyber security**
 
